@@ -8,7 +8,7 @@
 ***rgb*** <br/>
 ![rgb](kitting/rgb.png)
 
-***extension** <br/>
+***extension*** <br/>
 ![extension](kitting/extension.png)
 
 ***spacebars*** <br/>
@@ -16,6 +16,9 @@
 
 ***40s***<br/>
 ![40s](kitting/40s.png)
+
+***icons***<br/>
+![icons](kitting/icons.png)
 
 ***chad*** <br/>
 ![chad](kitting/chad.png)
