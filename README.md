@@ -5,6 +5,9 @@
 ***base*** <br/> 
 ![Base](kitting/base.png)
 
+***rgb*** <br/>
+![rgb](kitting/rgb.png)
+
 ***spacebars*** <br/>
 ![spacebars](kitting/spacebars.png)
 
@@ -13,3 +16,4 @@
 
 ***vim*** <br/>
 ![Vim](kitting/vim.png)
+
