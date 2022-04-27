@@ -14,6 +14,9 @@
 ***spacebars*** <br/>
 ![spacebars](kitting/spacebars.png)
 
+***40s***<br/>
+![40s](kitting/40s.png)
+
 ***chad*** <br/>
 ![chad](kitting/chad.png)
 
