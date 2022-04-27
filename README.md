@@ -8,6 +8,9 @@
 ***rgb*** <br/>
 ![rgb](kitting/rgb.png)
 
+***extension** <br/>
+![extension](kitting/extension.png)
+
 ***spacebars*** <br/>
 ![spacebars](kitting/spacebars.png)
 
