@@ -2,8 +2,8 @@
 ## [Geekhack]() | [Website](https://dcs-wwob.com) | [Discord](https://discord.gg/a75EDAyeQz)
 
 ### Kitting
-***Base*** 
+***base*** <br/> 
 ![Base](kitting/base.png)
 
-***vim***
+***vim*** <br/>
 ![Vim](kitting/vim.png)
