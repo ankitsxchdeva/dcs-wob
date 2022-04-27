@@ -5,5 +5,11 @@
 ***base*** <br/> 
 ![Base](kitting/base.png)
 
+***spacebars*** <br/>
+![spacebars](kitting/spacebars.png)
+
+***chad*** <br/>
+![chad](kitting/chad.png)
+
 ***vim*** <br/>
 ![Vim](kitting/vim.png)
