@@ -3,23 +3,23 @@
 
 ### Kitting
 ***base*** <br/> 
-![Base](kitting/base.png)
+![Base](renders/1.png)
 
 ***rgb*** <br/>
-![rgb](kitting/rgb.png)
+![rgb](renders/2.png)
 
 ***extension*** <br/>
-![extension](kitting/extension.png)
+![extension](renders/7.png)
 
 ***spacebars*** <br/>
-![spacebars](kitting/spacebars.png)
+![spacebars](renders/3.png)
 
 ***40s***<br/>
-![40s](kitting/40s.png)
+![40s](renders/5.png)
 
 ***chad*** <br/>
-![chad](kitting/chad.png)
+![chad](renders/6.png)
 
 ***vim*** <br/>
-![Vim](kitting/vim.png)
+![Vim](renders/4.png)
 
