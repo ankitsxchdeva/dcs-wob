@@ -1,5 +1,7 @@
 ## [Geekhack](https://geekhack.org/index.php?topic=117130) | [Discord](https://discord.gg/a75EDAyeQz)
 
+![I-love-you](i-love-you.gif)
+
 ![Safa](renders/safa.png)
 
 ### Kitting
